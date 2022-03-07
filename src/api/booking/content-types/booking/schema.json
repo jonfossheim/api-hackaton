@@ -1,10 +1,10 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "bookings",
   "info": {
     "singularName": "booking",
     "pluralName": "bookings",
-    "displayName": "booking"
+    "displayName": "Booking"
   },
   "options": {
     "draftAndPublish": true
